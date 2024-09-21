@@ -1,0 +1,16 @@
+body {
+    background-color: #f21970;
+    color: white;
+    margin: 0;
+}
+
+#lienzo {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    border: 80px solid rgb(108, 72, 197);
+    box-sizing: border-box;
+}
